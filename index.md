@@ -27,7 +27,7 @@ Hi there! i love to [write code](https://github.com/jonfirexbox), DO well in sch
 * I founded [Advertising Train](https://discord.gg/R7kBzBv) and I remain as an Founder there.
 
 ### Founded by me
-* [Red](http://github.com/red-ruby/red) This is a Ruby thing, (I don't know what to call it?) But it for the Ruby Coding language
+* [Red](http://github.com/RedRubys/red) This is a Ruby thing, (I don't know what to call it?) But it for the Ruby Coding language
 * [Santa Lounge](https://discord.gg/vJYgKdn) This is a Discord support server for th discor bot [Santa Parrot](https://github.com/jonfirexbox/Santa-Parrot), also server is still under Construction
 
 ### Hobbies?
