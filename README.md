@@ -1,2 +1,2 @@
-# jonfirexbox.github.io2
+# jonfirexbox.github.io
 This is my personal website!
