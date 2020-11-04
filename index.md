@@ -22,13 +22,13 @@ Hi there! i love to [write code](https://github.com/jonfirexbox), DO well in sch
 ## My own projects
 
 ### Currently in progress
-* [Santa Parrot](https://github.com/jonfirexbox/Santa-Parrot) is an open source Economy/Moderation/Music bot
+* [Science Development](https://github.com/science-development) is an open source organization where we will post our bots codes
 * [AstonomyBot Github](https://github.com/astronomybot), I am a Community helper for the bot [AsronomyBot](https://astrobot.org/)
 * I founded [Advertising Train](https://discord.gg/R7kBzBv) and I remain as an Founder there.
 
 ### Founded by me
-* [Red](http://github.com/RedRubys/red) This is a Ruby thing, (I don't know what to call it?) But it for the Ruby Coding language
-* [Santa Lounge](https://discord.gg/vJYgKdn) This is a Discord support server for th discor bot [Santa Parrot](https://github.com/jonfirexbox/Santa-Parrot), also server is still under Construction
+* [Something](http://github.com/Jonfirexbox/red) This is a Ruby thing, (I don't know what to call it?) But it for the Ruby Coding language
+* [Science Development](https://discord.gg/vJYgKdn) This is a Discord support server for th discord development [Science Development](https://github.com/Science-Development), also server is still under Construction
 
 ### Hobbies?
 Hanging our with irl friends, coding, going on bike rides
