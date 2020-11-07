@@ -5,9 +5,8 @@ permalink: /advertising
 image: https://jonfirexbox.GitHub.io/assets/meme.jpg
 ---
 
-<img src="./assets/meme.jpg" width="300" align="right">
 
-This guide only deals with servers. You can contribute to this page [here](https://github.com/jonfirexbox/jonfirexbox.github.io/blob/master/advertising.md). Use [BotBlock](https://botblock.org/) to find bot lists.
+This guide only deals with servers. You can contribute to this page [here](https://github.com/jonfirexbox/jonfirexbox.github.io/blob/master/advertising.md).
 
 More Discord stuff: [Server Guide](./discord-server-guide) / [Issues](./discord-issues)
 * [Bots](#bots)
