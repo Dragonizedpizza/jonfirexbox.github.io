@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Hello there! I'm Jonfirexbox.
-description: I can see that you have walked thousands of miles just to reach this website, but that's just my homepage. Have fun... I guess.
+description: Welcome to my amzing website! Come and stay to learn about me!
 cover: true
 permalink: /
 ---
@@ -27,8 +27,8 @@ Hi there! i love to [write code](https://github.com/jonfirexbox), DO well in sch
 * I founded [Advertising Train](https://discord.gg/R7kBzBv) and I remain as an Founder there.
 
 ### Founded by me
-* [Something](http://github.com/Jonfirexbox/red) This is a Ruby thing, (I don't know what to call it?) But it for the Ruby Coding language
-* [Science Development](https://discord.gg/vJYgKdn) This is a Discord support server for th discord development [Science Development](https://github.com/Science-Development), also server is still under Construction
+* [Octo](http://github.com/Jonfirexbox/Octo) This is a Discord Python API, This is made for the bot Octo-Bot (Ran by [Science Development](https://github.com/Science-development)
+* [Science Development](https://discord.gg/vJYgKdn) This is a Discord support server for the discord development [Science Development](https://github.com/Science-Development), also server is still under Construction
 
 ### Hobbies?
 Hanging our with irl friends, coding, going on bike rides
