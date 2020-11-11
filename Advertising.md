@@ -23,7 +23,7 @@ Ordered by server count as of November 3rd, 2020. (Not fully up to date!)
 <!-- * [Bump Bot](https://discordbots.org/bot/511167075801235478) (325 servers, 24 hour bump interval) // Can not be found on top.gg/discordbots.org -->
 
 ### Listing Servers
-Aside from websites and bot-served servers. Please note that servers may require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison of various servers. We are only listing the well-maintained ones here.
+Aside from websites and bot-served servers. Please note that servers may require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. (This is not all server that must be here, will be adding more!)
 
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
 * [Discord Growth Portal](https://discord.gg/AG992Gc)
